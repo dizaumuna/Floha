@@ -9,9 +9,8 @@ The status of project can be found in below.
 
 # 📱 The features of Floha
 - HDR10+ Support.
-- 60fps Video Recording Support.
+- 4k@60fps Video Recording Support.
 - Smoother experience.
-- Supports Galaxy A series.
 - Removing useless Samsung apps
 - S25 Wallpapers
 - Galaxy AI Support
@@ -29,9 +28,10 @@ The status of project can be found in below.
 - High-end Animations
 - Live blur support
 - S25 Sounds
+- 8K Video Recording
 - AOD Support
 - Mini Dex Support
-- Spoof device to S25 Ultra
+- Spoof device to S26 Ultra
 - Spoof One UI version to 8.0
 
 # ⚠️ Accountability
