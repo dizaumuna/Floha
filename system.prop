@@ -1,0 +1,29 @@
+# S26 port, not stable to use.
+ro.product.brand=samsung
+ro.product.device=qssi_64
+ro.product.manufacturer=samsung
+ro.product.model=SM-S948B
+ro.product.name=miracle
+ro.product.build.date=Wed Mar 10 18:51:17 KST 2026
+ro.product.build.date.utc=1753320709
+ro.product.build.fingerprint=samsung/miracle/qssi_64:15/AP3A.240905.015.A2/S948BXXS1AZC7:user/release-keys
+# idk this one so I grabbed it from a dumped firmware
+ro.product.build.id=AP3A.240905.015.A2
+#################################
+ro.product.build.tags=release-keys
+ro.product.build.type=user
+ro.product.build.version.incremental=S948BXXS1AZC7
+ro.system.build.version.sehi=3501
+ro.build.display.id=AP3A.240905.015.A2.S948BXXS1AZC7 | Floha+ 🌱
+ro.build.PDA=S948BXXS1AZC7
+# Custom props begin
+ro.build.version.oneui=80000
+ro.build.version.sep=160000
+ro.build.version.sem=3501
+# Disabled due to lagging, its a S26 port yk.
+#ro.sf.blurs_are_expensive=1
+dalvik.vm.systemuicompilerfilter=speed
+ro.surface_flinger.supports_background_blur=1
+persist.sys.sf.disable_blurs=0
+ro.gfx.angle.supported=true
+
